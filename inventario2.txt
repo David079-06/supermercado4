@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 jdqjkdqndqkdnkqdq
 
+=======
+dqkdqpokdqkdqkdqdq
+>>>>>>> e6c6a7fce4d53f97579f6098a7f252a3e31326e0
